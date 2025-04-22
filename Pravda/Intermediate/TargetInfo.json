@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Pravda_Concept25",
+			"Path": "..\\Source\\Pravda_Concept25.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Pravda_Concept25Editor",
+			"Path": "..\\Source\\Pravda_Concept25Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
